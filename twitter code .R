@@ -16,10 +16,10 @@ library(RCurl)
 library(wordcloud)
 ###########################################################################################
 version
-consumer_key<-"NygdcnOj0HWE2cbFRENtR5cnn"
-consumer_secret<-"Lz75XDXjzFHKDS2B3NS7AJa55YTuXWiguuXifQ0PR5loH2Yx4x"
-acces_token<-"372927498-H7v2P9jxq1KHJ4IHSQbdoEy0kQDeCecsnbcWhGlX"
-access_secret<-  "KYIiuHIqvtL8j0ah1cBwXAqG9Dk15sikkuNTBJDnlSdfw"
+consumer_key<-"NygdcnOj0HWE2cbFRENt*****"
+consumer_secret<-"Lz75XDXjzFHKDS2B3NS7AJa55YTuXWiguuXifQ0PR5loH****"
+acces_token<-"372927498-H7v2P9jxq1KHJ4IHSQbdoEy0kQDeCecsnbcW****"
+access_secret<-  "KYIiuHIqvtL8j0ah1cBwXAqG9Dk15sikkuNTBJDn*****"
 
 setup_twitter_oauth(consumer_key ,consumer_secret,acces_token,access_secret)
 1
